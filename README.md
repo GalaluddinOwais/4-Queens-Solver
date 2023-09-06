@@ -9,16 +9,16 @@
 
 
 # Requirements
- Any `Python` version should work!
+#### Any `Python` version should work!
 
 # Execution
-Locate `4_queens.py` and run the following command:
+#### Locate `4_queens.py` and run the following command:
 ```
 python 4_queens.py
 ```
 
 # Demonstration
 
-[Google drive link](https://drive.google.com/file/d/1TQSPZYRlYxPVGmBk8n_qeH7sMHErnzCm/view?usp=share_link)
+#### [Google drive link](https://drive.google.com/file/d/1TQSPZYRlYxPVGmBk8n_qeH7sMHErnzCm/view?usp=share_link)
 
 
