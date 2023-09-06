@@ -12,9 +12,9 @@
  Any `Python` version should work!
 
 # Execution
-Locate `4-queens.py` and run the following command:
+Locate `4_queens.py` and run the following command:
 ```
-python 4-queens.py
+python 4_queens.py
 ```
 
 # Demonstration
