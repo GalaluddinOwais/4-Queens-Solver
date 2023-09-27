@@ -20,8 +20,7 @@ python 4_queens.py
 # Demonstration
 
 #### [Google drive link](https://drive.google.com/file/d/1TQSPZYRlYxPVGmBk8n_qeH7sMHErnzCm/view?usp=share_link)
-
-![ggggg](https://github.com/GalaluddinOwais/4-Queens-Solver/assets/111979327/1a85bba9-b18b-49be-bd99-46add44ac095){width=40% height=40%}
+<img src="https://github.com/GalaluddinOwais/4-Queens-Solver/assets/111979327/1a85bba9-b18b-49be-bd99-46add44ac095" width="40%" height="40%">
 
 ![image](https://github.com/GalaluddinOwais/4-Queens-Solver/assets/111979327/348a91ba-ee07-4bb6-899a-5f1473704ac8)
 
