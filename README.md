@@ -26,3 +26,4 @@ python 4_queens.py
 
 ![image](https://github.com/GalaluddinOwais/4-Queens-Solver/assets/111979327/6acac9df-1d3c-4b83-b527-71f9b2d1fc53)
 
+![image](https://github.com/GalaluddinOwais/4-Queens-Solver/assets/111979327/3f808c73-1a21-44fb-a03a-a7bad6a24b74)
