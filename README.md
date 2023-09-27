@@ -21,4 +21,7 @@ python 4_queens.py
 
 #### [Google drive link](https://drive.google.com/file/d/1TQSPZYRlYxPVGmBk8n_qeH7sMHErnzCm/view?usp=share_link)
 
+![image](https://github.com/GalaluddinOwais/4-Queens-Solver/assets/111979327/d88412f8-b7cb-4f13-8001-89e8a537f3e9)
+![image](https://github.com/GalaluddinOwais/4-Queens-Solver/assets/111979327/331918f0-8445-44bb-ace9-39ed0526f81d)
 
+![ggggg](https://github.com/GalaluddinOwais/4-Queens-Solver/assets/111979327/1a85bba9-b18b-49be-bd99-46add44ac095)
