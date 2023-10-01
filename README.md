@@ -1,5 +1,5 @@
 # About the project
-#### This project aims to solve the classic 4-queens puzzle by utilizing a genetic algorithm, which is suitable for tackling combinatorial problems. It also demonstrates how the chessboard evolves through the multiple generations until the arrangement of the queens is finally valid
+This project aims to solve the classic 4-queens puzzle by utilizing a genetic algorithm, which is suitable for tackling combinatorial such problems. It also demonstrates how the chessboard evolves through the multiple generations until the arrangement of the queens is finally valid
 
 # Key Achievements
 * Implemented a genetic algorithm with the encoding and decoding functions and the fitness function for 4-queens board 
